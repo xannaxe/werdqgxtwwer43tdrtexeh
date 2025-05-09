@@ -1,0 +1,9 @@
+rich==13.7.0
+pandas==2.0.3
+chardet==5.2.0
+requests==2.31.0
+colorama==0.4.6
+openpyxl==3.1.2
+pyfiglet==0.7.6
+customtkinter==5.2.1
+pyperclip==1.8.2
